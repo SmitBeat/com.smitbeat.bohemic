@@ -1,0 +1,72 @@
+{
+	"Wallpapers":
+        [
+			{
+				"author": "Taken from github",
+				"url": "https://raw.githubusercontent.com/SmitBeat/WSJ/master/01.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/WSJ/master/01.jpg",
+				"name": "Wallpaper 1"
+
+			},
+			{
+				"author": "Taken from github",
+				"url": "https://raw.githubusercontent.com/SmitBeat/WSJ/master/02.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/WSJ/master/02.jpg",
+				"name": "Wallpaper 2"
+			},
+			{
+				"author": "Taken from github",
+				"url": "https://raw.githubusercontent.com/SmitBeat/WSJ/master/03.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/WSJ/master/03.jpg",
+				"name": "Wallpaper 3"
+			},
+			{
+				"author": "Taken from github",
+				"url": "https://raw.githubusercontent.com/SmitBeat/WSJ/master/04.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/WSJ/master/04.jpg",
+				"name": "Wallpaper 4"
+			},
+			{
+				"author": "Taken from github",
+				"url": "https://raw.githubusercontent.com/SmitBeat/WSJ/master/05.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/WSJ/master/05.jpg",
+				"name": "Wallpaper 5"
+			},
+			{
+				"author": "Taken from github",
+				"url": "https://raw.githubusercontent.com/SmitBeat/WSJ/master/06.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/WSJ/master/06.jpg",
+				"name": "Wallpaper 6"
+			},
+			{
+				"author": "Taken from github",
+				"url": "https://raw.githubusercontent.com/SmitBeat/WSJ/master/07.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/WSJ/master/07.jpg",
+				"name": "Wallpaper 7"
+			},
+			{
+				"author": "Taken from github",
+				"url": "https://raw.githubusercontent.com/SmitBeat/WSJ/master/08.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/WSJ/master/08.jpg",
+				"name": "Wallpaper 8"
+			},
+			{
+				"author": "Taken from github",
+				"url": "https://raw.githubusercontent.com/SmitBeat/WSJ/master/09.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/WSJ/master/09.jpg",
+				"name": "Wallpaper 9"
+			},
+			{
+				"author": "Taken from github",
+				"url": "https://raw.githubusercontent.com/SmitBeat/WSJ/master/10.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/WSJ/master/10.jpg",
+				"name": "Wallpaper 10"
+			},
+			{
+				"author": "Taken from github",
+				"url": "https://raw.githubusercontent.com/SmitBeat/WSJ/master/11.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/WSJ/master/11.jpg",
+				"name": "Wallpaper 11"
+			}
+		]
+}
